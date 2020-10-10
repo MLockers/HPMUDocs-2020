@@ -1,5 +1,7 @@
 # HPMUDocs 2020
-**HPMUDocs 2020** is document repository written by Doctor Louis in 2020.
+The document repository is written by **MedPocket** in 2020.
 
-## Copyright
-Copyright (c) Doctor Louis.
+## License
+Copyright &copy; **MedPocket**. All rights reserved.
+
+Licensed under the [CC0](LICENSE) license.
