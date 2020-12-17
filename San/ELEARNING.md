@@ -1,6 +1,7 @@
 # VIDEO BÀI GIẢNG SẢN KHOA THAM KHẢO
 
 1. [Cách khám Leopold](https://youtu.be/T9e_YNghBDI)
+1. [Các đường kính khung chậu nữ](https://youtu.be/VPjnpBySIM0) - [Đo khung chậu nữ](https://youtu.be/n9-8eiCJfYA)
 1. [Khám độ lọt](https://youtu.be/Qy6tZ0nfR_A)
 1. [Kỹ thuật đặt mỏ vịt](https://youtu.be/745NZtPUDTA)
 1. Cách đọc CTG [Phần 1](https://youtu.be/RJ5TtZok9lE) - [Phần 2](https://youtu.be/5UePgkNZB0Q) - [Phần 3](https://youtu.be/7tXFadmOsag)
