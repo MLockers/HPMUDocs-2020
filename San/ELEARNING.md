@@ -10,3 +10,5 @@
 1. [Biểu đồ chuyển dạ](https://youtu.be/1mnJYf5jCiY)
 1. [Kỹ thuật khám vú](https://youtu.be/745NZtPUDTA)
 1. [Forceps](https://youtu.be/_InLgIcaNcA)
+1. [Sản Phụ Khoa HPMU 2020 **cá nhân**](https://youtube.com/playlist?list=PLL1t1-UomvZ-6rAUmbDeFTAqfVwkjijbC)
+1. [Sản Phụ KHoa HMU 2020 **cá nhân**](https://youtube.com/playlist?list=PLL1t1-UomvZ_LTucKsiTVLxU0_IStehl4)
