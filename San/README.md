@@ -1,7 +1,7 @@
 # Sản Phụ Khoa
 
-Sản phụ khoa là lĩnh vực nghiên cứu tập trung vào việc mang thai, sinh nở và thời kỳ hậu sản. 
-Là một chuyên khoa y tế, sản khoa được kết hợp với phụ khoa theo chuyên ngành được gọi là 
+Sản phụ khoa là lĩnh vực nghiên cứu tập trung vào việc mang thai, sinh nở và thời kỳ hậu sản.
+Là một chuyên khoa y tế, sản khoa được kết hợp với phụ khoa theo chuyên ngành được gọi là
 sản khoa và phụ khoa là một lĩnh vực phẫu thuật.
 
 ## Nội dung
