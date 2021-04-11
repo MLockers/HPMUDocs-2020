@@ -9,3 +9,4 @@ quản lý các bệnh nhân có quá trình bệnh không rõ ràng hoặc nhi�
 Danh sách các bài giảng liên quan đến môn **Nội khoa**:
 
 - [Bài giảng Nội khoa Y4 HPMU 2021](https://youtube.com/playlist?list=PLL1t1-UomvZ8BOG_6FuIHe8YbQIjxQz8O)
+- [Bài Giảng Nội khoa HMU 2021 **cá nhân**](https://www.youtube.com/playlist?list=PLL1t1-UomvZ_hXTIN4NWxICb2Wwg1oifM)
